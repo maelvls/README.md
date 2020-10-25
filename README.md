@@ -12,23 +12,15 @@ After a few months, I stepped up as Tech Lead in a team of four people. I would 
 
 Beyond my main assignment, I also worked with the rest of the company on topics such as
 
--   Helped grow the remote-first culture thought experiments such as the "wormhole" and by pushing for better video call quality (more than 70% of the company now equipped with proper standalone mics such as the Blue Yeti). A blog post about my experience of remote work is published [here](https://medium.com/@bryony.snelling_26575/mr-remote-working-2c953c121968).
-
--   Initiated a movement towards transparency across the company that led to a rewrite of the "values" page as well as many changes such as recording meetings and having a shared document with an agenda and minutes for every single meeting.
-
--   Contributed to the company knowledge base on various topics such as "the git guide", "slack etiquette" and "recording and sharing meetings".
-
--   Attended all weekly meetings of [sig-cluster-lifecycle](https://docs.google.com/document/d/1fQNlqsDkvEggWFi51GVxOglL2P1Bvo2JhZlMhm2d-Co/edit#) with the goal of keeping the company up to date with upstream developments as well as advocating for our solution; contributions: [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls), [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+)
-
--   Helped develop a self-learning program where each engineer is given 20% of their time to train on various topics; I authored a couple of blog posts as well as many ideas of topics engineers would pick during their training (mainly around Kubernetes controllers, networking and Linux-y things).
-
--   Authored the technical test given to applicants and follow-up technical interviews.
-
--   Authored multiple internal kubectl plugins for interacting with our custom resources as well as a tiny tool for monitoring and removing unused VMs on OpenStack, AWS and GCP.
-
--   Authored [ngroker](https://github.com/maelvls/ngroker), a tool we used at Ori for running a shared ssh session without the hassle of exchanging ssh keys (using Github usernames).
-
--   Wrote an interactive [ChatOps bot](https://github.com/maelvls/gh-actions-chatops) using Github Actions for applying Terraform changes through PRs.
+- Helped grow the remote-first culture thought experiments such as the "wormhole" and by pushing for better video call quality (more than 70% of the company now equipped with proper standalone mics such as the Blue Yeti). A blog post about my experience of remote work is published [here](https://medium.com/@bryony.snelling_26575/mr-remote-working-2c953c121968).
+- Initiated a movement towards transparency across the company that led to a rewrite of the "values" page as well as many changes such as recording meetings and having a shared document with an agenda and minutes for every single meeting.
+- Contributed to the company knowledge base on various topics such as "the git guide", "slack etiquette" and "recording and sharing meetings".
+- Attended all weekly meetings of [sig-cluster-lifecycle](https://docs.google.com/document/d/1fQNlqsDkvEggWFi51GVxOglL2P1Bvo2JhZlMhm2d-Co/edit#) with the goal of keeping the company up to date with upstream developments as well as advocating for our solution; contributions: [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls), [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+)
+- Helped develop a self-learning program where each engineer is given 20% of their time to train on various topics; I authored a couple of blog posts as well as many ideas of topics engineers would pick during their training (mainly around Kubernetes controllers, networking and Linux-y things).
+- Authored the technical test given to applicants and follow-up technical interviews.
+- Authored multiple internal kubectl plugins for interacting with our custom resources as well as a tiny tool for monitoring and removing unused VMs on OpenStack, AWS and GCP.
+- Authored [ngroker](https://github.com/maelvls/ngroker), a tool we used at Ori for running a shared ssh session without the hassle of exchanging ssh keys (using Github usernames).
+- Wrote an interactive [ChatOps bot](https://github.com/maelvls/gh-actions-chatops) using Github Actions for applying Terraform changes through PRs.
 
 **Tools used**: Go, Kubernetes, Github Actions, Helm, Terraform, AWS, GCP, OpenStack, Agile.
 
@@ -46,7 +38,7 @@ As part of an operations team, I worked on building a Terraform plugin in Go for
 
 ## PhD _(2016–2018)_
 
-I developed [touist](https://github.com/touist/touist), a compiler written in OCaml for a new logic language meant to formalize and solve problems that can be expressed as SAT expressions. The tool is now used to teach logic to first-year students at Université Paul Sabatier in Toulouse and is used by  reseachers to explore new SAT encodings.
+I developed [touist](https://github.com/touist/touist), a compiler written in OCaml for a new logic language meant to formalize and solve problems that can be expressed as SAT expressions. The tool is now used to teach logic to first-year students at Université Paul Sabatier in Toulouse and is used by reseachers to explore new SAT encodings.
 
 As part of my PhD, I also helped develop a web application serving as a frontend to the compiler written in VueJS and Rust; we deployed it through Docker images built by Travis CI and run using AWS ECS.
 
