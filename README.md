@@ -1,6 +1,6 @@
 ## A few words about me
 
-I bring a cheerful presence to my colleagues though passion and honesty. I love the technical challenge of building an infrastructure product!
+Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer. In a few words, I have been told that I bring a cheerful presence to my colleagues though passion and honesty. I love the technical challenge of building an infrastructure product, and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issue.
 
 ## System Software Engineer at Ori Industries _(2019–2020)_
 
