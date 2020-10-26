@@ -46,3 +46,10 @@ As part of my PhD, I also helped develop a web application serving as a frontend
 
 **Tools used:** OCaml, Rust, Typescript, AWS ECS, Travis CI.
 
+## Contact details
+
+- mael.valais@gmail.com
+- +33 786484391
+- [LinkedIn](https://www.linkedin.com/in/maelvalais/)
+- [Blog](https://maelvls.dev)
+- Toulouse, France
