@@ -1,4 +1,4 @@
-## A few words about me
+# Resume – Maël Valais, Software Engineer
 
 Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer. In a few words, I have been told that I bring a cheerful presence to my colleagues though passion and honesty. I love the technical challenge of building an infrastructure product, and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issue.
 
@@ -36,10 +36,13 @@ As part of an operations team, I worked on building a Terraform plugin in Go for
 
 **Tools used:** Go, Terraform, Gitlab CI, Bash, VMWare vRA 7.
 
-## PhD _(2016–2018)_
+## Education
+
+### PhD in Computer Science _(2016–2018)_
 
 I developed [touist](https://github.com/touist/touist), a compiler written in OCaml for a new logic language meant to formalize and solve problems that can be expressed as SAT expressions. The tool is now used to teach logic to first-year students at Université Paul Sabatier in Toulouse and is used by reseachers to explore new SAT encodings.
 
 As part of my PhD, I also helped develop a web application serving as a frontend to the compiler written in VueJS and Rust; we deployed it through Docker images built by Travis CI and run using AWS ECS.
 
 **Tools used:** OCaml, Rust, Typescript, AWS ECS, Travis CI.
+
