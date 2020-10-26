@@ -50,6 +50,7 @@ As part of my PhD, I also helped develop a web application serving as a frontend
 
 - mael.valais@gmail.com
 - +33 786484391
+- _Maël Valais_ on [Kubernetes Slack](https://slack.k8s.io/) and [Gopher Slack](https://gophersinvite.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/maelvalais/)
 - [Blog](https://maelvls.dev)
 - Toulouse, France
