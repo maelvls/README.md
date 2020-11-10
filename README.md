@@ -1,6 +1,38 @@
 # Resume – Maël Valais, Software Engineer
 
-Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer. In a few words, I have been told that I bring a cheerful presence to my colleagues though passion and honesty. I love the technical challenge of building an infrastructure product, and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issue.
+Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer.
+
+In a few words, I have been told that I bring a cheerful presence to my colleagues though passion and honesty. I love the technical challenge of building an infrastructure product, and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issue.
+
+You may read about me digging into networking, Go development and Kubernetes in my [blog](https://maelvls.dev/).
+
+Some of my contributions: [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml), [gitlab-ce][] 
+(Ruby), [boost-graph][] (C++), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go). I authored [homebrew-amc][] 
+(Homebrew tap), [touist][] (OCaml) and a couple of [vscode-extensions][].
+
+
+[ocamlyices2]: https://github.com/polazarus/ocamlyices2/pulls?utf8=%E2%9C%93&q=author%3Amaelvls+
+[ocaml-minisat]: https://github.com/c-cube/ocaml-minisat/pulls?utf8=%E2%9C%93&q=author%3Amaelvls
+[ocaml-qbf]: https://github.com/c-cube/ocaml-qbf/issues?utf8=%E2%9C%93&q=author%3Amaelvls
+[opam]: https://github.com/ocaml/opam-repository/pulls?utf8=%E2%9C%93&q=author%3Amaelvls
+[gitlab-ce]: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/1150
+[boost-graph]: https://github.com/boostorg/graph/issues?utf8=%E2%9C%93&q=author%3Amaelvls
+[homebrew-amc]: https://github.com/maelvls/homebrew-amc
+[touist]: https://github.com/touist/touist
+[maelvls/awx-gke-terraform]: https://github.com/maelvls/awx-gke-terraform
+[maelvls/terraform-touist]: https://github.com/maelvls/terraform-touist
+[masters-thesis]: https://drive.google.com/file/d/0B5mz8k-t6PT0N2lINEZYX2duOFU/view
+[vehicule-routing-report]: http://homepages.laas.fr/sungueve/Docs/Etu/rapport-ter-aide-humanitaire.pdf
+[homebrew-tap-auto-bottles]: https://gist.github.com/maelvls/068af21911c7debc4655cdaa41bbf092
+[maelvls/users-grpc]: https://github.com/maelvls/users-grpc
+[rust-chat]: https://github.com/maelvls/rust-chat
+[touist-server]: https://github.com/maelvls/touist-editor/blob/master/touist-server/src/main.rs
+[maelvls.github.io]: https://maelvls.github.io/
+[mael.valais@gmail.com]: mailto:mael.valais@gmail.com
+[vscode-extensions-github]: https://github.com/maelvls?utf8=%E2%9C%93&tab=repositories&q=vscode&type=&language=
+[vscode-extensions]: https://marketplace.visualstudio.com/search?term=maelvalais&target=VSCode&category=All%20categories&sortBy=Relevance
+[linus-fuck-kay]: http://lkml.iu.edu/hypermail/linux/kernel/1404.0/01331.html
+
 
 ## System Software Engineer at Ori Industries _(2019–2020)_
 
@@ -9,6 +41,8 @@ As a Software Engineer at Ori Industries, my main focus was to develop an infras
 In my capacity as an Individual Contributor, I helped shape the Kubernetes components that would make up the Ori infrastructure platform. Among others, my team built a Kubernetes native API for spinning up VMs on AWS, GCP and OpenStack and bootstrap them into Kubernetes clusters. I also worked on a custom control plane for Envoy (our platform's data plane) inspired by Istio; and contributed to the company's early REST API built in Go that used a CQRS approach and NATS for the event persistence. My main achivement as an Individual Contributor has been to become the go-to person anyone would come to regarding Kubernetes controllers as well as for debugging Kubernetes and network-related issues.
 
 After a few months, I stepped up as Tech Lead in a team of four people. I would run the daily standups, make sure the backlog is in good shape, work with the Product Manager to flesh out stories, point the stories with the team, run a biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable achivements are the "project office hours" I started; the meeting increased the cross-team communication through demos and open discussions about anything more or less related to my team's project.
+
+-> radical candor
 
 Beyond my main assignment, I also worked with the rest of the company on topics such as
 
