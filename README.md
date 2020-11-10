@@ -36,13 +36,34 @@ Some of my contributions: [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [
 
 ## System Software Engineer at Ori Industries _(2019–2020)_
 
-As a Software Engineer at Ori Industries, my main focus was to develop an infrastructure platform that can be seen as an edge-aware version of Cloud Foundry that telcos would use to leverage their low-latency last-mile 5G network. With this platform, telcos are able to sell compute time to developers with a network latency of 1-2 ms, acting as a public cloud provider of their own.
+As a Software Engineer at Ori Industries, my main focus was to develop an
+infrastructure platform that can be seen as an edge-aware version of Cloud
+Foundry. Telcos would use this infrastructure platform to leverage their low-
+latency last-mile 5G network. With this platform, they are able to sell compute
+time to developers with a network latency of 1-2 ms, acting as a public cloud
+provider of their own.
 
-In my capacity as an Individual Contributor, I helped shape the Kubernetes components that would make up the Ori infrastructure platform. Among others, my team built a Kubernetes native API for spinning up VMs on AWS, GCP and OpenStack and bootstrap them into Kubernetes clusters. I also worked on a custom control plane for Envoy (our platform's data plane) inspired by Istio; and contributed to the company's early REST API built in Go that used a CQRS approach and NATS for the event persistence. My main achivement as an Individual Contributor has been to become the go-to person anyone would come to regarding Kubernetes controllers as well as for debugging Kubernetes and network-related issues.
+As an individual contributor, I helped shape the Kubernetes components that
+would make up the Ori infrastructure platform. Among others, my team built a
+Kubernetes native API for spinning up VMs on AWS, GCP and OpenStack and
+bootstrap them into Kubernetes clusters. I also worked on a custom control plane
+for Envoy (our platform's data plane) inspired by Istio; and contributed to the
+company's early REST API built in Go that used a CQRS approach and NATS for the
+event persistence. My main achievement as an Individual Contributor has been to
+become the go-to person anyone would come to regarding Kubernetes controllers as
+well as for debugging Kubernetes and network-related issues.
 
-After a few months, I stepped up as Tech Lead in a team of four people. I would run the daily standups, make sure the backlog is in good shape, work with the Product Manager to flesh out stories, point the stories with the team, run a biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable achivements are the "project office hours" I started; the meeting increased the cross-team communication through demos and open discussions about anything more or less related to my team's project.
+After a few months, I stepped up as Tech Lead in a team of four people. I would
+run the daily standups, make sure the backlog is in good shape, work with the
+Product Manager to flesh out stories, point the stories with the team, run a
+biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable
+achivements are the "project office hours" I started; the meeting increased the
+cross-team communication through demos and open discussions about anything more
+or less related to my team's project.
 
+<!--
 -> radical candor
+-->
 
 Beyond my main assignment, I also worked with the rest of the company on topics such as
 
