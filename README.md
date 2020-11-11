@@ -16,7 +16,7 @@ Some of my contributions: [gitlab][] (Ruby), [boost-graph][] (C++), [auto-mult
 [gitlab]: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/1150
 [boost-graph]: https://github.com/boostorg/graph/issues?utf8=%E2%9C%93&q=author%3Amaelvls
 [homebrew-amc]: https://github.com/maelvls/homebrew-amc
-[auto-multiple-choice]: https://gitlab.com/jojo_boulix/auto-multiple-choice/-/commits/master?author=Ma%C3%ABl%20Valais
+[auto-multiple-choice]: https://gitlab.com/jojo_boulix/auto-multiple-choice/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=maelvls
 [touist]: https://github.com/touist/touist
 [maelvls/awx-gke-terraform]: https://github.com/maelvls/awx-gke-terraform
 [maelvls/terraform-touist]: https://github.com/maelvls/terraform-touist
