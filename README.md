@@ -44,7 +44,7 @@ As an individual contributor, I helped shape the Kubernetes components that woul
 
   
 
-After a few months, I stepped up as Tech Lead in a team of four people. I would run the daily standups, make sure the backlog is in good shape, work with the Product Manager to flesh out stories, point the stories with the team, run a biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable achievements are the “project office hours” I started; the meeting increased the cross-team communication through demos and open discussions about anything more or less related to my team’s project.
+After a few months, I stepped up as tech lead in a team of four people. I would run the daily standups, make sure the backlog is in good shape, work with the Product Manager to flesh out stories, point the stories with the team, run a biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable achievements are the “project office hours” I started; the meeting increased the cross-team communication through demos and open discussions about anything more or less related to my team’s project.
 
 Beyond my primary assignment, I also worked with the rest of the company on topics such as
 
