@@ -7,8 +7,7 @@ I have been told I bring a cheerful presence to my colleagues through passion an
 You may read about me digging into networking, Go development, and Kubernetes in my [blog](https://maelvls.dev/).
 
 Some of my contributions: [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml), [gitlab-ce][] 
-(Ruby), [boost-graph][] (C++), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go). I authored [homebrew-amc][] 
-(Homebrew tap), [touist][] (OCaml) and a couple of [vscode-extensions][].
+(Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
 
 
 [ocamlyices2]: https://github.com/polazarus/ocamlyices2/pulls?utf8=%E2%9C%93&q=author%3Amaelvls+
@@ -18,6 +17,7 @@ Some of my contributions: [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [
 [gitlab-ce]: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/1150
 [boost-graph]: https://github.com/boostorg/graph/issues?utf8=%E2%9C%93&q=author%3Amaelvls
 [homebrew-amc]: https://github.com/maelvls/homebrew-amc
+[auto-multiple-choice]: https://gitlab.com/jojo_boulix/auto-multiple-choice/-/commits/master?author=Ma%C3%ABl%20Valais
 [touist]: https://github.com/touist/touist
 [maelvls/awx-gke-terraform]: https://github.com/maelvls/awx-gke-terraform
 [maelvls/terraform-touist]: https://github.com/maelvls/terraform-touist
