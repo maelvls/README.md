@@ -71,11 +71,11 @@ As part of an operations team, I built a Terraform plugin in Go for a private cl
 
 **Tools used:** Go, Terraform, Gitlab CI, Bash, VMWare vRA 7.
 
-### Education
+## Education
 
 ### Ph.D. in Computer Science _(2016–2018)_
 
-I developed [touist](https://github.com/touist/touist), a compiler written in OCaml for a new logic language meant to formalize and solve problems expressed as SAT expressions. The tool is now used to teach logic to first-year students at Université Paul Sabatier in Toulouse and is used by researchers to explore new SAT encodings.
+I developed [touist](https://github.com/touist/touist), a compiler written in OCaml for a new logic language meant to formalize and solve problems expressed as SAT expressions. The tool is now used to teach logic to first-year students at Université Paul Sabatier in Toulouse and is used by researchers to explore new SAT encodings; see [the thesis](http://thesesups.ups-tlse.fr/4328/1/2019TOU30079.pdf) (in French).
 
 As part of my PhD, I also helped develop a web application serving as a frontend to the compiler written in VueJS and Rust; we deployed it through Docker images built by Travis CI and run using AWS ECS.
 
