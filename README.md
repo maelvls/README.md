@@ -6,7 +6,7 @@ I have been told I bring a cheerful presence to my colleagues through passion an
 
 You may read about me digging into networking, Go development, and Kubernetes in my [blog](https://maelvls.dev/).
 
-Some of my contributions: [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
+Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
 
 
 [ocamlyices2]: https://github.com/polazarus/ocamlyices2/pulls?utf8=%E2%9C%93&q=author%3Amaelvls+
@@ -31,6 +31,7 @@ Some of my contributions: [gitlab][] (Ruby), [boost-graph][] (C++), [auto-mult
 [vscode-extensions-github]: https://github.com/maelvls?utf8=%E2%9C%93&tab=repositories&q=vscode&type=&language=
 [vscode-extensions]: https://marketplace.visualstudio.com/search?term=maelvalais&target=VSCode&category=All%20categories&sortBy=Relevance
 [linus-fuck-kay]: http://lkml.iu.edu/hypermail/linux/kernel/1404.0/01331.html
+[cert-manager]: https://github.com/jetstack/cert-manager/issues?q=involves%3Amaelvls
 
 
 ### System Software Engineer at Ori Industries _(2019–2020)_
