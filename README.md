@@ -9,12 +9,12 @@ You may read about me digging into networking, Go development, and Kubernetes in
 Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
 
 
-[ocamlyices2]: https://github.com/polazarus/ocamlyices2/pulls?utf8=%E2%9C%93&q=author%3Amaelvls+
-[ocaml-minisat]: https://github.com/c-cube/ocaml-minisat/pulls?utf8=%E2%9C%93&q=author%3Amaelvls
-[ocaml-qbf]: https://github.com/c-cube/ocaml-qbf/issues?utf8=%E2%9C%93&q=author%3Amaelvls
-[opam]: https://github.com/ocaml/opam-repository/pulls?utf8=%E2%9C%93&q=author%3Amaelvls
+[ocamlyices2]: https://github.com/polazarus/ocamlyices2/issues?q=involves%3Amaelvls
+[ocaml-minisat]: https://github.com/c-cube/ocaml-minisat/issues?q=involves%3Amaelvls
+[ocaml-qbf]: https://github.com/c-cube/ocaml-qbf/issues?q=involves%3Amaelvls
+[opam]: https://github.com/ocaml/opam-repository/issues?q=involves%3Amaelvls
 [gitlab]: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/1150
-[boost-graph]: https://github.com/boostorg/graph/issues?utf8=%E2%9C%93&q=author%3Amaelvls
+[boost-graph]: https://github.com/boostorg/graph/issues?q=involves%3Amaelvls
 [homebrew-amc]: https://github.com/maelvls/homebrew-amc
 [auto-multiple-choice]: https://gitlab.com/jojo_boulix/auto-multiple-choice/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=maelvls
 [touist]: https://github.com/touist/touist
