@@ -2,7 +2,7 @@
 
 Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer.
 
-I have been told I bring a cheerful presence to my colleagues through passion and honesty. I love the technical challenge of building an infrastructure product and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issues.
+I have been told I bring a cheerful presence to my colleagues through passion and honesty. I communicate through kindness and empathy and I strive to bring psychological safety to my team. I love the technical challenge of building an infrastructure product and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issues.
 
 You may read about me digging into networking, Go development, and Kubernetes in my [blog](https://maelvls.dev/).
 
