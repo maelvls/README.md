@@ -33,6 +33,9 @@ Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][]
 [linus-fuck-kay]: http://lkml.iu.edu/hypermail/linux/kernel/1404.0/01331.html
 [cert-manager]: https://github.com/jetstack/cert-manager/issues?q=involves%3Amaelvls
 
+<details>
+  
+<summary>🔰 Curriculum & contact information</summary>
 
 ### System Software Engineer at Ori Industries _(2019–2020)_
 
@@ -90,3 +93,5 @@ As part of my PhD, I also helped develop a web application serving as a frontend
 - [LinkedIn](https://www.linkedin.com/in/maelvalais/)
 - [Blog](https://maelvls.dev)
 - Toulouse, France
+
+</details>
