@@ -4,7 +4,7 @@ Hi! My name is Maël from France. I am currently looking for a remote position a
 
 I have been told I bring a cheerful presence to my colleagues through passion and honesty. I communicate through kindness and empathy and I strive to bring psychological safety to my team. I love the technical challenge of building an infrastructure product and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issues.
 
-You may read about me digging into networking, Go development, and Kubernetes in my [blog](https://maelvls.dev/).
+You may read about me digging into networking, Go development, and Kubernetes [on my blog](https://maelvls.dev/).
 
 Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
 
