@@ -1,15 +1,8 @@
-# Resume – Maël Valais, Software Engineer
-
-> ✏️ Updated on December 11th, 2020.
-
-Hi! My name is Maël from France. I am currently looking for a remote position as a Software Engineer.
-
-I have been told I bring a cheerful presence to my colleagues through passion and honesty. I communicate through kindness and empathy and I strive to bring psychological safety to my team. I love the technical challenge of building an infrastructure product and always find ways of making my team happier by building cool CLIs or debugging some nasty Kubernetes networking issues.
+Hi! My name is Maël. I am a software engineer living in Toulouse (France). I make great use of empathy and kindness in order to build up psychological safety in my team. What I enjoy most is tinkering with deeply technical things such as containers, networking and Linux security; I also love to be part qnd contribute to the open-source communities. Oh, I also love building cool CLI tools.
 
 You may read about me digging into networking, Go development, and Kubernetes [on my blog](https://maelvls.dev/).
 
 Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
-
 
 [ocamlyices2]: https://github.com/polazarus/ocamlyices2/issues?q=involves%3Amaelvls
 [ocaml-minisat]: https://github.com/c-cube/ocaml-minisat/issues?q=involves%3Amaelvls
