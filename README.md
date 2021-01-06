@@ -1,4 +1,4 @@
-Hi! My name is Maël. I am a software engineer living in Toulouse (France). I make great use of empathy and kindness in order to build up psychological safety in my team. What I enjoy the most is to tinker with deeply technical things such as containers, networking and Linux security. I love being part and contributing to open-source communities. I also enjoy building cool CLI tools.
+Hi! My name is Maël. I am a software engineer living in Toulouse (France). I like to promote psychological safety through empathy and kindness. What I enjoy the most is to tinker with containers, networking and Linux-y security. I love being part and contributing to open-source communities. I also enjoy building cool CLI tools.
 
 You may read about me digging into networking, Go development, and Kubernetes [on my blog](https://maelvls.dev/).
 
