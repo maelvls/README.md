@@ -32,15 +32,15 @@ Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][]
   
 <summary>🔰 Curriculum & contact information</summary>
 
+### System Software Engineer at Jetstack _(2021–present)_
+
+I joined the [cert-manager](https://github.com/jetstack/cert-manager) team at [Jetstack](https://jetstack.io/about), where I work at building the open-source community around cert-manager as well as contribute to the enterprise offering.
+
 ### System Software Engineer at Ori Industries _(2019–2020)_
 
 As a Software Engineer at Ori Industries, my main focus was to develop an edge-aware version of Cloud Foundry. Telcos would use this infrastructure platform to leverage its low-latency last-mile 5G network. With this platform, they can sell compute time to developers with a network latency of 1-2 ms, acting as a public cloud provider of their own.
 
-  
-
 As an individual contributor, I helped shape the Kubernetes components that would make up the Ori infrastructure platform. Among others, my team built a Kubernetes native API for spinning up VMs on AWS, GCP, and OpenStack and bootstrap them into Kubernetes clusters. I also worked on a custom control plane for Envoy (our platform’s data plane) inspired by Istio. I contributed to the company’s initial REST API built-in Go that used a CQRS approach and NATS for the event persistence. My main achievement as an individual contributor has been to become the go-to person anyone would come to regarding Kubernetes controllers as well as for debugging Kubernetes and network-related issues.
-
-  
 
 After a few months, I stepped up as tech lead in a team of four people. I would run the daily standups, make sure the backlog is in good shape, work with the Product Manager to flesh out stories, point the stories with the team, run a biweekly retro meeting (we ended up working in an uninterrupted sprint). Notable achievements are the “project office hours” I started; the meeting increased the cross-team communication through demos and open discussions about anything more or less related to my team’s project.
 
