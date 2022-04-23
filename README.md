@@ -34,8 +34,12 @@ Some of my contributions: [cert-manager][] (Go), [gitlab][] (Ruby), [boost-gra
 
 ### System Software Engineer at Jetstack _(2021–present)_
 
-I joined the [cert-manager](https://github.com/jetstack/cert-manager) team at [Jetstack](https://jetstack.io/about), where I work at building the open-source community around cert-manager as well as contribute to the enterprise offering.
+I joined the [cert-manager](https://github.com/jetstack/cert-manager) team at [Jetstack](https://jetstack.io/about).
 
+As part of the cert-manager core team, I mentored new contributors into merging their first pull request. During my mandate as a release lead of cert-manager, I worked on moving away from Bazel in order to reduce the friction new contributors were feeling when getting started. I worked with sig-network on the Gateway API integration in cert-manager, as well as on making the ingress resource documentation clearer for ingress controller implementors and ingress users alike.
+
+Along with the open-source work, I contributed to Jetstack's enterprise offering, and led an effort towards customer success via lean product practices.
+  
 ### System Software Engineer at Ori Industries _(2019–2020)_
 
 As a Software Engineer at Ori Industries, my main focus was to develop an edge-aware version of Cloud Foundry. Telcos would use this infrastructure platform to leverage its low-latency last-mile 5G network. With this platform, they can sell compute time to developers with a network latency of 1-2 ms, acting as a public cloud provider of their own.
