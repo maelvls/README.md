@@ -2,7 +2,7 @@ Hi! My name is Maël ([prononciation](https://maelvls.dev/media/mael-pronounciat
 
 You may read about me digging into networking, Go development, and Kubernetes [on my blog](https://maelvls.dev/).
 
-Some of my contributions: [cert-manager][], [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
+Some of my contributions: [cert-manager][] (Go), [gitlab][] (Ruby), [boost-graph][] (C++), [auto-multiple-choice][] (C++, Perl), [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/pulls?q=author%3Amaelvls) and [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api/pulls?q=author%3Amaelvls+) (Go), [ocaml-minisat][], [ocaml-qbf][], [ocamlyices2][], [opam][] (OCaml). I authored [homebrew-amc][], [touist][] (OCaml) and a couple of [vscode-extensions][].
 
 [ocamlyices2]: https://github.com/polazarus/ocamlyices2/issues?q=involves%3Amaelvls
 [ocaml-minisat]: https://github.com/c-cube/ocaml-minisat/issues?q=involves%3Amaelvls
