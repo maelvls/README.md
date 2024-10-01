@@ -32,9 +32,9 @@ Some of my contributions: [cert-manager][] (Go), [gitlab][] (Ruby), [boost-gra
   
 <summary>🔰 Curriculum & contact information</summary>
 
-### System Software Engineer at Jetstack _(2021–present)_
+### System Software Engineer at CyberArk _(2021–present)_
 
-I joined the [cert-manager](https://github.com/jetstack/cert-manager) team at [Jetstack](https://jetstack.io/about).
+I joined the [cert-manager](https://github.com/jetstack/cert-manager) team at [Jetstack](https://jetstack.io/about). Jetstack was acquired by Venafi in 2021, which was acquired by CyberArk in 2024.
 
 As part of the cert-manager core team, I mentored new contributors into merging their first pull request. During my mandate as a release lead of cert-manager, I worked on moving away from Bazel in order to reduce the friction new contributors were feeling when getting started. I worked with sig-network on the Gateway API integration in cert-manager, as well as on making the ingress resource documentation clearer for ingress controller implementors and ingress users alike.
 
